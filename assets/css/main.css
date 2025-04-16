@@ -315,7 +315,7 @@ h6 {
 .navmenu a:hover .navicon,
 .navmenu .active .navicon,
 .navmenu .active:focus .navicon {
-  color: var(--accent-color);
+  color: #96D5D7;
 }
 
 .navmenu .active .toggle-dropdown,
