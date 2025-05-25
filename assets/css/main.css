@@ -1229,8 +1229,8 @@ section,
 
 #portfolio-details .close-btn {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 1px;
+  right: 1px;
   font-size: 24px;
   background: none;
   border: none;
